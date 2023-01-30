@@ -1,0 +1,16 @@
+.userPhoto {
+    width: 200px;
+    height: 100px;
+}
+
+.selectedPage{
+    font-weight: bold;
+} 
+
+.button {
+    background-color: aqua;
+}
+
+.button :disabled {
+    background-color: red;
+}
